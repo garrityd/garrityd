@@ -6,4 +6,4 @@ Hello, I'm **Dan**
  - 😄 I an interested in learning how to computer program
  - 📖 I enjoy reading in my spare time
  - 🏫 I am a Freshman in Highschool
- - I am excited to use GitHub for the years to come
+ - :octocat: I am excited to use GitHub for the years to come
