@@ -8,5 +8,4 @@ Hello, I'm **Dan**
  - 🏫 I am a Freshman in Highschool
  - :octocat: I am excited to use GitHub for the years to come
 
-Portfolio: https://garrityd.github.io/Portfolio/
-###[Portfolio](https://garrityd.github.io/Portfolio/)
+[Portfolio](https://garrityd.github.io/Portfolio/)
