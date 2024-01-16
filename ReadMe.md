@@ -7,3 +7,5 @@ Hello, I'm **Dan**
  - 📖 I enjoy reading in my spare time
  - 🏫 I am a Freshman in Highschool
  - :octocat: I am excited to use GitHub for the years to come
+
+Portfolio: https://garrityd.github.io/Portfolio/
